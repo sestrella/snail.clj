@@ -1,14 +1,10 @@
 # snail.clj
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+[![Build Status](https://travis-ci.org/sestrella/snail.clj.svg)](https://travis-ci.org/sestrella/snail.clj)
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Sebastián Estrella
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
